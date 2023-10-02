@@ -1,0 +1,11 @@
+.size{
+    font-size: xx-large;
+}
+.color-red{
+    color: rgb(181, 11, 11);
+    cursor: pointer;
+}
+.color-blue{
+    color: rgb(17, 67, 195);
+    cursor: pointer;
+}

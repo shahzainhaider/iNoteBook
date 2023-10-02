@@ -1,0 +1,8 @@
+.css{
+    color:rgb(125, 125, 125);
+    text-decoration: none;
+    margin-right: 15px;
+}
+.active{
+    color: black;
+}
